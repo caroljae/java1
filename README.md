@@ -1,5 +1,5 @@
 # java1
-#Java College Level Case Switch and Methods
+#Java Case Switch and Method
 
 import java.util.*;
 
